@@ -1,6 +1,3 @@
-DeepSeek
-梁文锋
-
 比亚迪
 王传福
 
@@ -14,9 +11,6 @@ DJI
 灵犀
 稚晖君
 彭志辉
-
-京东
-刘强东
 
 字节
 bytedance
@@ -39,17 +33,13 @@ google
 gemini
 deepmind
 
+DeepSeek
 chatgpt
 openai
 sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -59,8 +49,9 @@ ai
 
 机器人
 
-国产
 中国
+国产
++芯片
 
 美国
 日本
@@ -74,13 +65,12 @@ ai
 
 核能
 
-新质生产力
-
 以色列
 犹太
 战争
 圣殿
 中东
+!经济
 
 宁波
 房地产
