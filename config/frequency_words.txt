@@ -22,11 +22,10 @@ bytedance
 微软
 Microsoft
 
+AMD
 英伟达
 NVIDIA
 黄仁勋
-
-AMD
 
 谷歌
 google
@@ -63,17 +62,13 @@ ai
 芯片
 光刻机
 
-核能
-
 以色列
 犹太
-战争
 圣殿
-中东
+中东局势
 !经济
+!GDP
 
-宁波
-房地产
 房贷
-利率
++利率
 
