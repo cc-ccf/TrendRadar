@@ -120,16 +120,8 @@ platforms:
   # === 社交/短视频/娱乐类 ===
   - id: "weibo"
     name: "微博"
-  - id: "douyin"
-    name: "抖音"
   - id: "bilibili-hot-search"
     name: "bilibili 热搜"
-  - id: "tieba"
-    name: "贴吧"
-  - id: "zhihu"
-    name: "知乎"
-  - id: "hupu"
-    name: "虎扑"
 
   # === 科技类平台 ===
   - id: "ithome"
@@ -150,12 +142,6 @@ platforms:
     name: "远景论坛"
   - id: "sspai"
     name: "少数派"
-  - id: "producthunt"
-    name: "ProductHunt"
-
-  # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
 
   # ======================================================
   # 暂时失败的渠道（可能需要修复或接口已变更）
